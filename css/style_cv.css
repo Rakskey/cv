@@ -96,7 +96,9 @@ input[type=reset]:hover {
 .contacto a:hover{
   color: rgb(0, 150, 136);
 }
-
+.mySlides {
+  display:none;
+}
 @media screen and (min-width:680px){
   .mi-nombre{
     font-size: 25px;
